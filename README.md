@@ -3,11 +3,11 @@
 1. **[Wprowadzenie](https://github.com/MorswinyIT/Morswinswear#wprowadzenie)**
 2. **[Problem](https://github.com/MorswinyIT/Morswinswear#problem)**
 3. **[Rozwiązanie](https://github.com/MorswinyIT/Morswinswear#rozwi%C4%85zanie)**
-4. **[Sposób działania](https://github.com/MorswinyIT/Morswinswear#wprowadzenie)**
-5. **[Przebieg procesu](https://github.com/MorswinyIT/Morswinswear#wprowadzenie)**
-6. **[Rynek](https://github.com/MorswinyIT/Morswinswear#wprowadzenie)**
-7. **[Konkurencja](https://github.com/MorswinyIT/Morswinswear#wprowadzenie)**
-8. **[Wyróżniki](https://github.com/MorswinyIT/Morswinswear#wprowadzenie)**
+4. **[Sposób działania](https://github.com/MorswinyIT/Morswinswear#spos%C3%B3b-dzia%C5%82ania)**
+5. **[Przebieg procesu](https://github.com/MorswinyIT/Morswinswear#przebieg-procesu)**
+6. **[Rynek](https://github.com/MorswinyIT/Morswinswear#rynek)**
+7. **[Konkurencja](https://github.com/MorswinyIT/Morswinswear#konkurencja)**
+8. **[Wyróżniki](https://github.com/MorswinyIT/Morswinswear#wyr%C3%B3%C5%BCniki)**
 ## Wprowadzenie
 Przekleństwa i wulgaryzmy towarzyszą nam na każdym kroku, nie ma od nich ucieczki. Artysta powinien brać odpowiedzialność za teksty własnych piosenek, ale trudno od niego wymagać, aby pilnował i przestrzegał każdego słuchającego przed treściami, które są w niej zawarte.
 ## Problem
