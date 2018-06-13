@@ -1,13 +1,13 @@
 # Program rozpoznający wulgaryzmy w piosenkach 'Morswiswear'
 ## Spis treści
 1. **[Wprowadzenie](https://github.com/MorswinyIT/Morswinswear#wprowadzenie)**
-2. Problem
-3. Rozwiązanie
-4. Sposób działania
-5. Przebieg procesu
-6. Rynek
-7. Konkurencja
-8. Wyróżniki
+2. **[Problem](https://github.com/MorswinyIT/Morswinswear#problem)**
+3. **[Rozwiązanie](https://github.com/MorswinyIT/Morswinswear#rozwi%C4%85zanie)**
+4. **[Sposób działania](https://github.com/MorswinyIT/Morswinswear#wprowadzenie)**
+5. **[Przebieg procesu](https://github.com/MorswinyIT/Morswinswear#wprowadzenie)**
+6. **[Rynek](https://github.com/MorswinyIT/Morswinswear#wprowadzenie)**
+7. **[Konkurencja](https://github.com/MorswinyIT/Morswinswear#wprowadzenie)**
+8. **[Wyróżniki](https://github.com/MorswinyIT/Morswinswear#wprowadzenie)**
 ## Wprowadzenie
 Przekleństwa i wulgaryzmy towarzyszą nam na każdym kroku, nie ma od nich ucieczki. Artysta powinien brać odpowiedzialność za teksty własnych piosenek, ale trudno od niego wymagać, aby pilnował i przestrzegał każdego słuchającego przed treściami, które są w niej zawarte.
 ## Problem
