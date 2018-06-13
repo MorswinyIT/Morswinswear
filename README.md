@@ -1,6 +1,6 @@
 # Program rozpoznający wulgaryzmy w piosenkach 'Morswiswear'
 ## Spis treści
-1. **[Wprowadzenie](##Wprowadzenie)**
+1. **[Wprowadzenie](https://github.com/MorswinyIT/Morswinswear#wprowadzenie)**
 2. Problem
 3. Rozwiązanie
 4. Sposób działania
