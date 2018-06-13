@@ -17,7 +17,7 @@ Stworzenie bota, który wyświetla liczbę przekleństw wpisanego w wyszukiwarce
 ## Sposób działania
 Strona morswinswear.me zawiera bazę wulgaryzmów, które są zaliczane jako słowa wyszukiwane w tekstach piosenek. Oprócz tego domena posiada wykrywacz przekleństw, który podaje ich odpowiednią wartość po wprowadzeniu tytułu utworu.
 ## Przebieg procesu
-![alt text](https://photos.app.goo.gl/xPMcGLDgdZRKGaff7)
+![alt text](https://github.com/MorswinyIT/Morswinswear/blob/master/przebieg.png)
 ## Rynek
 Obecnie na rynku nie mamy oprogramowania do bezpośredniego zliczania i wykrywania wulgaryzmów w piosenkach, a ze względu na rozwijającą się branże muzyczną i coraz większe zainteresowanie, wprowadzenie byłoby korzystne. 
 ## Konkurencja
