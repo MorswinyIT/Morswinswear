@@ -15,7 +15,7 @@ Warto byłoby wprowadzić pewne ograniczenia w ilości użytych słów, które m
 ## Rozwiązanie
 Stworzenie bota, który wyświetla liczbę przekleństw wpisanego w wyszukiwarce utworu.
 ## Sposób działania
-Strona morswinswear.me zawiera bazę wulgaryzmów, które są zaliczane jako słowa wyszukiwane w tekstach piosenek. Oprócz tego domena posiada wykrywacz przekleństw, który podaje ich odpowiednią wartość po wprowadzeniu tytułu utworu.
+Strona [morswinswear.me](http://www.morswinswear.me/) zawiera bazę wulgaryzmów, które są zaliczane jako słowa wyszukiwane w tekstach piosenek. Oprócz tego domena posiada wykrywacz przekleństw, który podaje ich odpowiednią wartość po wprowadzeniu tytułu utworu.
 ## Przebieg procesu
 ![alt text](https://github.com/MorswinyIT/Morswinswear/blob/master/przebieg.png)
 ## Rynek
